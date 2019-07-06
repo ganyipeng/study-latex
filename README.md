@@ -15,6 +15,7 @@
 * TeXworks 默认的排版工具是 pdfLaTeX。如果你希望更改这个默认值，可以在编辑 - 首选项 - 排版 - 处理工具 - 默认 中修改
 * texLive https://liam.page/texlive/
 * TeX Live 是 TUG (TeX User Group) 维护和发布的 TeX 系统，可说是「官方」的 TeX 系统。我们推荐任何阶段的 TeX 用户，都尽可能使用 TeX Live，以保持在跨操作系统平台、跨用户的一致性。TeX Live 的官方站点是 https://tug.org/texlive/。
+* TeX Live 在 macOS/OS X 上的名字是 MacTeX
 
 ### 想法/体会
 
