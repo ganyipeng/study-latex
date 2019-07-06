@@ -2,7 +2,8 @@
 
 ## 网站参考
 
-* 一份很短的latext入门 https://liam.page/2014/09/08/latex-introduction/
+* 一份很短的 latex 入门 https://liam.page/2014/09/08/latex-introduction/
+* mac 安装 latex https://jingyan.baidu.com/article/fcb5aff778d01eedaa4a71e0.html
 
 ## latex 学习记录
 
