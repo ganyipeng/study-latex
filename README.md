@@ -6,6 +6,16 @@
 
 * 20190706 周六 08:00 开始
 
+### 概念/术语
+
+* TeX 发行版
+* TeXworks
+* 排版工具: pdfTeX, pdfLaTeX, XeTeX, XeLaTeX
+* 当你对 TeX 系统相当熟悉之后，也可以不使用 TeXworks 预设的工具，自己配置排版工具
+* TeXworks 默认的排版工具是 pdfLaTeX。如果你希望更改这个默认值，可以在编辑 - 首选项 - 排版 - 处理工具 - 默认 中修改
+* texLive https://liam.page/texlive/
+* TeX Live 是 TUG (TeX User Group) 维护和发布的 TeX 系统，可说是「官方」的 TeX 系统。我们推荐任何阶段的 TeX 用户，都尽可能使用 TeX Live，以保持在跨操作系统平台、跨用户的一致性。TeX Live 的官方站点是 https://tug.org/texlive/。
+
 ### 想法/体会
 
 * 本来想用一个好点的文本编辑器, 如sublime, 但是官网响应超时
