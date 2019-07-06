@@ -1,5 +1,9 @@
 # study-latex
 
+## 网站参考
+
+* 一份很短的latext入门 https://liam.page/2014/09/08/latex-introduction/
+
 ## latex 学习记录
 
 ### 时间
