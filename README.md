@@ -12,6 +12,7 @@
 
 ### 概念/术语
 
+* 排版软件, latex 是一款排版软件, 那么什么教排版软件, 排版软件除了 latex 之外还有其它什么排版软件吗
 * TeX 发行版
 * TeXworks
 * 排版工具: pdfTeX, pdfLaTeX, XeTeX, XeLaTeX
